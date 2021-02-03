@@ -1,0 +1,8 @@
+
+export("showDesktop",
+       "openWindow",
+       "focusWindow",
+       "positionWindow",
+       "closeWindow",
+       
+       "typeString")
